@@ -1,0 +1,6 @@
+{
+  "name": "QueueLess",
+  "description": "Smart digital queue management platform to join queues digitally, track tokens in real time, and return when your turn is near.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
